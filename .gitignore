@@ -1,0 +1,7 @@
+*
+!.gitignore
+!CopyDetails.cpp
+!CopyDetails.exe
+!CopyDetails.sln
+!CopyDetails.vcxproj
+!CopyDetails.vcxproj.filters
